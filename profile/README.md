@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/FastCGI-Archives/fastcgi-archives.github.io/master/images/litespeed-screenshot.jpg" alt="drawing" width="400"/>](https://github.com/FastCGI-Archives/fastcgi-archives.github.io)
+[<img src="https://raw.githubusercontent.com/FastCGI-Archives/fastcgi-archives.github.io/master/images/litespeed-screenshot.jpg" alt="drawing" width="300"/>](https://github.com/FastCGI-Archives/fastcgi-archives.github.io)
 
 # [FastCGI Developpement Kit](https://github.com/FastCGI-Archives/fcgi2)
 
