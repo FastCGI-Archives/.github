@@ -1,4 +1,4 @@
-## Home of [FastCGI archives](https://fastcgi-archives.github.io/)
+[<img src="https://raw.githubusercontent.com/FastCGI-Archives/fastcgi-archives.github.io/master/images/litespeed-screenshot.jpg" alt="drawing" width="400"/>](https://github.com/FastCGI-Archives/fastcgi-archives.github.io)
 
 # [FastCGI Developpement Kit](https://github.com/FastCGI-Archives/fcgi2)
 
@@ -12,4 +12,3 @@ The FastCGI documentation recovered from wayback library and converted to markdo
 
 The original FastCGI Apache module fork from http://repo.or.cz/mod_fastcgi.git + last SNAP-0910052141 snapshot.
 
-[![logo](https://raw.githubusercontent.com/FastCGI-Archives/fastcgi-archives.github.io/master/images/litespeed-screenshot.jpg)](https://github.com/FastCGI-Archives/fastcgi-archives.github.io)
